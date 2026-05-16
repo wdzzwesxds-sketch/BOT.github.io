@@ -126,7 +126,7 @@ def callback():
     # WEBHOOK EMBED
     embed = {
         "title": "Nuevo usuario verificado",
-        "color": 65280,
+        "color": 0000ff,
         "fields": [
             {
                 "name": "Usuario",
