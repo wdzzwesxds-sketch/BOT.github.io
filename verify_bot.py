@@ -12,7 +12,7 @@ import os
 CLIENT_ID = os.getenv("CLIENT_ID")
 CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 
-REDIRECT_URI = "https://botgithubio-production.up.railway.app/login"
+REDIRECT_URI = "https://botgithubio-production.up.railway.app/callback"
 
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 
